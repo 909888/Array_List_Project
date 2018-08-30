@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Array_And_List_Project\Array_And_List_Project\bin\Debug\Array_And_List_Project.exe.config
+C:\Users\Student\source\repos\Array_And_List_Project\Array_And_List_Project\bin\Debug\Array_And_List_Project.exe
+C:\Users\Student\source\repos\Array_And_List_Project\Array_And_List_Project\bin\Debug\Array_And_List_Project.pdb
+C:\Users\Student\source\repos\Array_And_List_Project\Array_And_List_Project\obj\Debug\Array_And_List_Project.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Array_And_List_Project\Array_And_List_Project\obj\Debug\Array_And_List_Project.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Array_And_List_Project\Array_And_List_Project\obj\Debug\Array_And_List_Project.exe
+C:\Users\Student\source\repos\Array_And_List_Project\Array_And_List_Project\obj\Debug\Array_And_List_Project.pdb
